@@ -12,6 +12,8 @@ https://reapack.com/
 
 # Usage
 
+Download or clone this repo.
+
 __1.__
 Load scripts from Action List -> New Reascript
 and execute.
