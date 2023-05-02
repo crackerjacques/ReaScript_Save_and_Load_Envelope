@@ -10,3 +10,15 @@ __ReaImGui (Please install via Reapack)__
 
 https://reapack.com/
 
+# Usage
+
+__1.__
+Load scripts from Action List -> New Reascript
+and execute.
+
+__2.__
+Select Envelope range and name .reaperenvelope file.
+
+__3.__
+Load .reaperenvelope file and apply.
+
